@@ -21,6 +21,7 @@ Currently, I am still uploading the existing models thus repo building is in pro
 
   
 ## Index <All Folders>
+- Deep Learning
 - K Means Clustering
 - Linear Regression
 - Logistic Regression
