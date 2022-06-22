@@ -55,7 +55,7 @@ Yeah, you surely can for practice but cannot show it as your own , you have to m
 Yes, you can.
 
 #### Is this a Project?
-No, it is not, it is for learning purpose only.
+Mainly, it is for learning purposes but simple projects are also there.
 
   
 ## 🔗 Links
