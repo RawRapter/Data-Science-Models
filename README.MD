@@ -25,7 +25,8 @@ Currently, I am still uploading the existing models thus repo building is in pro
 - K Means Clustering
 - Linear Regression
 - Logistic Regression
-
+- Projects
+    - NYC Taxi Service (Used Linear Regression)
   
 ## Tech Stack
 
