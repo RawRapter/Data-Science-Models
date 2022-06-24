@@ -26,6 +26,7 @@ Currently, I am still uploading the existing models thus repo building is in pro
 - Linear Regression
 - Logistic Regression
 - Projects
+    - Loan Prediction
     - NYC Taxi Service (Used Linear Regression)
   
 ## Tech Stack
