@@ -1,0 +1,2 @@
+Images folder is not here due to large size, it can be downloaded from the Contest in analytics Vidhya:
+https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-digits/
