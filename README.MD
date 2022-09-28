@@ -29,8 +29,11 @@ Currently, I am still uploading the existing models thus repo building is in pro
 - Linear Regression
 - Logistic Regression
 - Projects
+    - Big Mart Sales Prediction (Inprogress)
     - Loan Prediction
+    - MNIST Analytics Vidhya
     - NYC Taxi Service (Used Linear Regression)
+    - Sales Analysis
   
 ## Tech Stack
 
